@@ -1,0 +1,6 @@
+Overpass API query
+(node(53.7576,-1.7142,53.8792,-1.3963);<;);out meta;
+
+This area contains Leeds City, Yorkshire, UK where I grew up. There is some overlap with Bradford to the West. I was interested to see the quality of data for OSM in this regional capital.
+
+https://www.openstreetmap.org/relation/118362#map=11/53.8221/-1.5460
